@@ -1,3 +1,5 @@
+![Effortless Template](https://spacema-dev.com/effortless/main_image.png)
+
 # Effortless – Free Tailwind CSS Website Template
 
 ## If you like this template, please give a ⭐ to this repository!
