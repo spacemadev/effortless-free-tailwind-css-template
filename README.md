@@ -4,6 +4,14 @@
 
 Effortless is your go-to solution for crafting a sleek and modern landing page with minimal effort. Designed with the latest web design trends and best practices in mind, Effortless provides a seamless user experience with its intuitive layout and responsive design.
 
+### Demo:
+
+Check out the demo of Free Effortless Tailwind Css template [here](https://spacema-dev.com/effortless).
+
+### Template Page:
+
+Visit the Free Effortless Tailwind Css template page [here](https://spacema-dev.com/effortless-free-tailwind-css-website-template/).
+
 ## Key Features:
 
 - **Sticky Menu:** Navigate with ease as the sticky menu ensures your main navigation is always accessible, providing a smooth and user-friendly experience.
