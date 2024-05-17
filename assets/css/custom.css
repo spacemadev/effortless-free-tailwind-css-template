@@ -1,0 +1,16 @@
+/* custom styles here */
+.mySwiper{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+@media(max-width:767px){
+    .mySwiper{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+}
+
+.mySwiper{
+    max-width: 800px;
+}
