@@ -2,7 +2,7 @@
 
 # Effortless – Free Tailwind CSS Website Template
 
-## If you like this template, please give a ⭐ to this repository, and don't forget to share it with your friends and colleagues!
+## If you like this template, please give a ⭐ to this repository!
 
 Effortless is your go-to solution for crafting a sleek and modern landing page with minimal effort. Designed with the latest web design trends and best practices in mind, Effortless provides a seamless user experience with its intuitive layout and responsive design.
 
