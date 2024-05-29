@@ -14,6 +14,8 @@ Check out the demo of Free Effortless Tailwind Css template [here](https://space
 
 Visit the Free Effortless Tailwind Css template page [here](https://spacema-dev.com/effortless-free-tailwind-css-website-template/).
 
+## More [Free Tailwind Css Templates](https://spacema-dev.com/effortless-free-tailwind-css-website-template/) 
+
 ## Key Features:
 
 - **Sticky Menu:** Navigate with ease as the sticky menu ensures your main navigation is always accessible, providing a smooth and user-friendly experience.
