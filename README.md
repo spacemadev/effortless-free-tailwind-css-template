@@ -14,7 +14,7 @@ Check out the demo of Free Effortless Tailwind Css template [here](https://space
 
 Visit the Free Effortless Tailwind Css template page [here](https://spacema-dev.com/effortless-free-tailwind-css-website-template/).
 
-## More [Free Tailwind Css Templates](https://spacema-dev.com/effortless-free-tailwind-css-website-template/) 
+## More [Free Tailwind Css Templates](https://spacema-dev.com/free-tailwind-css-templates/) 
 
 ## Key Features:
 
